@@ -1,10 +1,12 @@
 # WolX
 WolX is a website that allows you to upload and store your music and play it also can search for albums or songs. 
-every user has his own Albums and songs, can make favorite albums and songs.
+every user has his own Albums & songs, can make favorite albums & songs and delete songs or album.
 
 ## Tools:
-Websit Using Django Framework and SqLite3 ,
+Websit Using Django Framework and SqLite3.
+
 front end with HTML5, CSS3, JS, BootStrap.
+
 Requirements : Django version 3.1.4.
 
 ## Website Sections:
