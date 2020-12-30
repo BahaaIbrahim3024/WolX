@@ -12,19 +12,19 @@ Requirements : Django version 3.1.4.
 
 ## Website Sections:
 ### 1- Register a new user
-![register](https://user-images.githubusercontent.com/29886682/103320414-eb88be80-4a3d-11eb-97c1-dae8574abc94.png)
+![register](https://user-images.githubusercontent.com/29886682/103322290-432b2800-4a46-11eb-8f6c-d484ef25042d.png)
 ### 2- Login to your account
-![login](https://user-images.githubusercontent.com/29886682/103320410-e461b080-4a3d-11eb-83f7-44da0ab695c8.png)
+![Login](https://user-images.githubusercontent.com/29886682/103322288-41f9fb00-4a46-11eb-8850-e247ac4e6fd1.png)
 ### 3- Albums section (For Every user)
-![music](https://user-images.githubusercontent.com/29886682/103320412-e75ca100-4a3d-11eb-8720-8866bed33601.png)
+![allAlbums](https://user-images.githubusercontent.com/29886682/103322279-39092980-4a46-11eb-8ed6-deada7776d2f.png)
 ### 4- Album details (Songs)
-![details](https://user-images.githubusercontent.com/29886682/103320403-dd3aa280-4a3d-11eb-91c2-3df12b36ec04.png)
+![details](https://user-images.githubusercontent.com/29886682/103322282-3d354700-4a46-11eb-8846-bb939905a715.png)
 ### 5- User's all songs in one place
-![allSongs](https://user-images.githubusercontent.com/29886682/103320398-dad84880-4a3d-11eb-8993-3cb823d9056c.png)
+![allSongs](https://user-images.githubusercontent.com/29886682/103322281-3c041a00-4a46-11eb-88a4-8a5398bee542.png)
 ### 6- User's favorite songs
-![favoriteSongs](https://user-images.githubusercontent.com/29886682/103320407-e1ff5680-4a3d-11eb-8b7f-5edfd4069736.png)
+![favorite](https://user-images.githubusercontent.com/29886682/103322287-40c8ce00-4a46-11eb-9707-06505ea64adc.png)
 ### 7- Add new album
-![addAlbum](https://user-images.githubusercontent.com/29886682/103320382-cdbb5980-4a3d-11eb-9d0d-9c0851782f1d.png)
+![addAlbum](https://user-images.githubusercontent.com/29886682/103322274-3575a280-4a46-11eb-98b6-228cc0d0ea4f.png)
 ### 8- Add new songs to album(Upload them)
-![addSong](https://user-images.githubusercontent.com/29886682/103320391-d1e77700-4a3d-11eb-9290-2bb6dab5489d.png)
+![addSong](https://user-images.githubusercontent.com/29886682/103322275-373f6600-4a46-11eb-9672-b3297f703942.png)
 
